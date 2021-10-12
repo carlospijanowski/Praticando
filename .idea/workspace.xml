@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="nova branch feat/fca">
       <change beforePath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0002_designPatterns/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="carlospc1978" />
+        <option name="repository" value="Praticando" />
+      </RepoCoordinatesHolder>
+    </option>
   </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
@@ -77,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634064401548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nova branch feat/fca">
+      <created>1634070649216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634070649216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -16,10 +16,8 @@ public class ExemplosComMethodReference {
 
         List<Integer> lista = Arrays.asList(1,2,3,4,5,6);
 
-        //como eu imprimiria ?
-        lista.stream().forEach((numeros)->{
-            System.out.println(numeros);
-        });
+        //como eu imprimiria usando lambda?
+        lista.stream().forEach((numeros)-> System.out.println(numeros));
 
         // ja com o method reference
         lista.stream().forEach(System.out::println);
