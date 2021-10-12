@@ -1,2 +1,4 @@
 /.idea/sonarlint/
 .class
+target
+/.sonarlint
