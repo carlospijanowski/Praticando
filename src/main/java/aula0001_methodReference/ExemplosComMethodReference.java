@@ -1,8 +1,11 @@
 package aula0001_methodReference;
 
+import lombok.extern.log4j.Log4j2;
+
 import java.util.Arrays;
 import java.util.List;
 
+@Log4j2
 public class ExemplosComMethodReference {
 
 
