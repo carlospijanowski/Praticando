@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java">
           <value>
             <set />
@@ -19,6 +24,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java">
           <value>
             <set />
           </value>
