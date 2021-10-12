@@ -11,18 +11,23 @@ public class ExemplosComMethodReference {
 
     public static void main(String[] args) {
 
-        List<String> lista = Arrays.asList("Carlos","Pijanowski","Cartaxo");
-        //como eu imprimiria ?
+        List<Integer> lista = Arrays.asList(1,2,3,4,5,6);
 
-        lista.stream().forEach((texto)->{
-            System.out.println(texto);
+        //como eu imprimiria ?
+        lista.stream().forEach((numeros)->{
+            System.out.println(numeros);
         });
 
         // ja com o method reference
-
         lista.stream().forEach(System.out::println);
+
+        lista.stream().map((n)-> multipliquePorDois(n)).forEach(System.out::println);
 
     }
 
+
+    public static Integer multipliquePorDois(Integer i){
+        return i *2;
+    }
 
 }
