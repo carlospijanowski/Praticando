@@ -1,6 +1,4 @@
-package methodReference;
-
-import model.Pessoas;
+package aula0001_methodReference;
 
 import java.util.Arrays;
 import java.util.List;
@@ -26,21 +24,11 @@ public class ExemplosComMethodReference {
         lista.stream().map((n)-> multipliquePorDois(n)).forEach(System.out::println);
 
 
-        List<String>nomes= Arrays.asList(getPessoas().getNome());
-        nomes.stream().forEach((n)-> System.out.println(n));
-
-
     }
 
 
     public static Integer multipliquePorDois(Integer i){
         return i *2;
-    }
-
-    private static Pessoas getPessoas(){
-        Pessoas pessoas = new Pessoas();
-        pessoas.setNome("Carlos");
-        return pessoas;
     }
 
 }
