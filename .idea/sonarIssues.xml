@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java">
           <value>
             <set />
@@ -44,6 +49,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0006_numerosInteiros/Inteiros.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Cliente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../hexagonal_architecture_java/src/main/java/com/rdr/blog/hexagonal_architecture_java/service/EmployeeService.java">
           <value>
             <set />
           </value>
