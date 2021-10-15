@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="atualizacaoes Inteiros.java">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="nova aula0008 - cast de objetos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/ContaPoupanca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Cliente.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634133006921</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nova aula0008 - cast de objetos">
+      <created>1634316087982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634316087982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="atualizacaoes" />
     <MESSAGE value="atualizacaoes Optional" />
     <MESSAGE value="add polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add polimorfismo" />
+    <MESSAGE value="nova aula0008 - cast de objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="nova aula0008 - cast de objetos" />
   </component>
 </project>

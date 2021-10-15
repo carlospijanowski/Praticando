@@ -63,6 +63,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/ContaCorrente.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/ContaPoupanca.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/cONTA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hexagonal_architecture_java/src/main/java/com/rdr/blog/hexagonal_architecture_java/service/EmployeeService.java">
           <value>
             <set />
