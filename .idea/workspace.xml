@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634420280104</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="nova branch">
+      <created>1634420650652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634420650652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +198,8 @@
     <MESSAGE value="add polimorfismo" />
     <MESSAGE value="nova aula0008 - cast de objetos" />
     <MESSAGE value="mudancas no pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="mudancas no pom.xml" />
+    <MESSAGE value="nova branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="nova branch" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
