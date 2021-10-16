@@ -1,4 +1,4 @@
-package aula0006_Polimorfismo;
+package aula0007_Polimorfismo;
 
 public class OperacaoMatematica {
 }
