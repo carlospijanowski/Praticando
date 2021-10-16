@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas no pom.xml">
-      <change afterPath="$PROJECT_DIR$/Praticando.iml" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" afterDir="false" />
     </list>
@@ -180,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634420650652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mudancas">
+      <created>1634424201166</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634424201166</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +208,8 @@
     <MESSAGE value="nova aula0008 - cast de objetos" />
     <MESSAGE value="mudancas no pom.xml" />
     <MESSAGE value="nova branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="nova branch" />
+    <MESSAGE value="mudancas" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudancas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
