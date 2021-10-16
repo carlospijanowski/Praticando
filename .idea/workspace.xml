@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas no pom.xml">
+      <change afterPath="$PROJECT_DIR$/Praticando.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

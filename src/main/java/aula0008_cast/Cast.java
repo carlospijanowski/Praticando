@@ -7,7 +7,9 @@ public class Cast {
 
     public static void main(String[] args) {
 
-        ContaPoupanca contaPoupanca = new ContaPoupanca();
+        Conta contaPoupanca = new ContaPoupanca();
+        contaPoupanca.setConta("0001");
+        System.out.println(contaPoupanca.getConta());
 
     }
 }

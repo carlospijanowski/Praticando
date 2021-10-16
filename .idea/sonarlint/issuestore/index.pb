@@ -15,6 +15,3 @@ Q
 -src/main/java/aula0005_optional/Optional.java,3\8\38ba3be0123054fb2ea75a73bc4a66a0fa5a5cda
 v
 Fsrc/main/java/aula0001_methodReference/ExemplosComMethodReference.java,5\4\54956d457c4621bdd3c9775deb24d7032142f6ca
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
