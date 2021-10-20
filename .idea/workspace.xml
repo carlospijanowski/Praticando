@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas no pom.xml">
-      <change afterPath="$PROJECT_DIR$/aula_0009_classesEstaticasJava.Estatica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_classes_Estaticas/ClasseEstatica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="ajustes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634420650652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="exercicios com classes Statics">
+      <created>1634516804702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634516804702</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ajustes">
+      <created>1634517047102</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634517047102</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +230,9 @@
     <MESSAGE value="nova aula0008 - cast de objetos" />
     <MESSAGE value="mudancas no pom.xml" />
     <MESSAGE value="nova branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="nova branch" />
+    <MESSAGE value="exercicios com classes Statics" />
+    <MESSAGE value="ajustes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
