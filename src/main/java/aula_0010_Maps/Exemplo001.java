@@ -4,18 +4,25 @@ import java.util.HashMap;
 
 public class Exemplo001 {
 
+    public static HashMap<String,String> mapaEstados() {
+        HashMap<String, String> estados = new HashMap<>();
+        estados.put("SP", "São Paulo");
+        estados.put("RJ", "Rio de Janeiro");
+        return estados;
+    }
 
 
-    public HashMap<String, String> getMapa() {
-        HashMap<String, String> map = new HashMap<>();
-        map.put("AC", "Acre"); map.put("AL", "Alagoas");
-        map.put("AP", "Amapá"); map.put("AM", "Amazonas");
-        map.put("BA", "Bahia"); map.put("CE", "Ceará");
-        map.put("DF", "Distrito Federal"); map.put("ES", "Espírito Santo");
-        map.put("GO", "Goiás"); 
-        return map; }
+    public static void main(String[] args) {
+        HashMap<String, String> mapaEstados = mapaEstados();
+
+        for (String siglaDoEstado: mapaEstados.values()) {
+            System.out.println(siglaDoEstado);
+
+        }
+
+    }
 
 
-    java.util.HashMap<String, String> mapaEstados = getMapa();
+    }
 
-}
+
