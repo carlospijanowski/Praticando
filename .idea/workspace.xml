@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="hashes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +51,13 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Qintess\Documents\Dev\Praticando Super Exemplos\src\main\java" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Exemplo001">
-    <configuration name="ClasseEstatica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0009_classes_Estaticas.ClasseEstatica" />
+  <component name="RunManager" selected="Application.Reduce">
+    <configuration name="ExemplosComMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReference" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0009_classes_Estaticas.*" />
+          <option name="PATTERN" value="aula0001_methodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,25 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
+    <configuration name="Interfaces_default_implementacoesLivres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0004_interfaces.Interfaces_default_implementacoesLivres" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0010_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Humano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model.Humano" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="aula0004_interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exemplo001" />
-        <item itemvalue="Application.Humano" />
-        <item itemvalue="Application.ClasseEstatica" />
         <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.Optional" />
+        <item itemvalue="Application.ExemplosComMethodReference" />
+        <item itemvalue="Application.Interfaces_default_implementacoesLivres" />
       </list>
     </recent_temporary>
   </component>
@@ -196,42 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634420650652</updated>
     </task>
-    <task id="LOCAL-00009" summary="exercicios com classes Statics">
-      <created>1634516804702</created>
+    <task id="LOCAL-00009" summary="mudancas">
+      <created>1634424201166</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1634516804702</updated>
+      <updated>1634424201166</updated>
     </task>
-    <task id="LOCAL-00010" summary="ajustes">
-      <created>1634517047102</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1634517047102</updated>
-    </task>
-    <task id="LOCAL-00011" summary="testes com classes">
-      <created>1634690748757</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1634690748757</updated>
-    </task>
-    <task id="LOCAL-00012" summary="atualizacoes">
-      <created>1634691935353</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1634691935353</updated>
-    </task>
-    <task id="LOCAL-00013" summary="hashes">
-      <created>1634738869994</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1634738869994</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,12 +208,8 @@
     <MESSAGE value="nova aula0008 - cast de objetos" />
     <MESSAGE value="mudancas no pom.xml" />
     <MESSAGE value="nova branch" />
-    <MESSAGE value="exercicios com classes Statics" />
-    <MESSAGE value="ajustes" />
-    <MESSAGE value="testes com classes" />
-    <MESSAGE value="atualizacoes" />
-    <MESSAGE value="hashes" />
-    <option name="LAST_COMMIT_MESSAGE" value="hashes" />
+    <MESSAGE value="mudancas" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudancas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
