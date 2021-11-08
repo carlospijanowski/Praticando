@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="mudancas no pom.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/TipoDePessoa.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="teste com ENUM - AULA 80">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/TipoDePessoa.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste" />
+      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste.Teste" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0009_Enum.*" />
+          <option name="PATTERN" value="aula_0009_Enum.Teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634420650652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="teste com ENUM - AULA 80">
+      <created>1636327833912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636327833912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +226,8 @@
     <MESSAGE value="nova aula0008 - cast de objetos" />
     <MESSAGE value="mudancas no pom.xml" />
     <MESSAGE value="nova branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="nova branch" />
+    <MESSAGE value="teste com ENUM - AULA 80" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste com ENUM - AULA 80" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
