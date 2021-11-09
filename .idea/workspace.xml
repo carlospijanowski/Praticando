@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aula com ENUMs - AULA 83">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Model/PessoaBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Principal.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="ajustes nos pacotes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula010_Builder/dominio/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +62,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="aula010_Builder.dominio" />
       <recent name="testes.Builder.Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Optional">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="ExemplosComMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReference" />
       <module name="Praticando" />
@@ -85,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interfaces_default_implementacoesLivres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0004_interfaces.Interfaces_default_implementacoesLivres" />
+    <configuration name="Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0005_optional.Optional" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0004_interfaces.*" />
+          <option name="PATTERN" value="aula0005_optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0005_optional.Optional" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0005_optional.*" />
+          <option name="PATTERN" value="aula0010_Builder.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Optional" />
         <item itemvalue="Application.PrincipalTest" />
         <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.ExemplosComMethodReference" />
-        <item itemvalue="Application.Interfaces_default_implementacoesLivres" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636367168680</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ajustes nos pacotes">
+      <created>1636493902629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636493902629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +253,8 @@
     <MESSAGE value="nova branch" />
     <MESSAGE value="teste com ENUM - AULA 80" />
     <MESSAGE value="aula com ENUMs - AULA 83" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula com ENUMs - AULA 83" />
+    <MESSAGE value="ajustes nos pacotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes nos pacotes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
