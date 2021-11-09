@@ -1,6 +1,6 @@
 package aula0010_Builder.Test;
 
-import aula010_Builder.dominio.Person;
+import aula0010_Builder.dominio.Person;
 
 public class Principal {
 
