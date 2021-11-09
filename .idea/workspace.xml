@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="ajustes nos pacotes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula010_Builder/dominio/Person.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aula010_Buider">
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula010_Builder/dominio/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +70,13 @@
       <recent name="testes.Builder.Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="ExemplosComMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReference" />
+  <component name="RunManager" selected="Application.FuncionarioTest01">
+    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L_classesAbstratas.test.FuncionarioTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0001_methodReference.*" />
+          <option name="PATTERN" value="L_classesAbstratas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Optional" />
         <item itemvalue="Application.PrincipalTest" />
         <item itemvalue="Application.Reduce" />
-        <item itemvalue="Application.ExemplosComMethodReference" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636493902629</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="aula010_Buider">
+      <created>1636495529395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636495529395</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +265,8 @@
     <MESSAGE value="teste com ENUM - AULA 80" />
     <MESSAGE value="aula com ENUMs - AULA 83" />
     <MESSAGE value="ajustes nos pacotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes nos pacotes" />
+    <MESSAGE value="aula010_Buider" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula010_Buider" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

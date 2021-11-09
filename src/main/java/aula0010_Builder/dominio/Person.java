@@ -1,4 +1,4 @@
-package aula010_Builder.dominio;
+package aula0010_Builder.dominio;
 
 import lombok.Data;
 
