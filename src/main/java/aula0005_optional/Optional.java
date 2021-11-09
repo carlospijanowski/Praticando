@@ -21,6 +21,11 @@ public class Optional {
 
         procurarPeloPrimeiro(lista);
         filtrarPeloCarlos(listaDosClientes);
+
+        listaDosClientes.stream().findFirst().ifPresent(n -> {
+            System.out.println("primeiro presente -> "+n.getNomeDoCliente());
+        });
+
     }
 
     public static void procurarPeloPrimeiro(List<String> a){
