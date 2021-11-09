@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aula010_Buider">
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula010_Builder/dominio/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="L - classes abstratas">
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636495529395</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="L - classes abstratas">
+      <created>1636496902107</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636496902107</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,7 +268,8 @@
     <MESSAGE value="aula com ENUMs - AULA 83" />
     <MESSAGE value="ajustes nos pacotes" />
     <MESSAGE value="aula010_Buider" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula010_Buider" />
+    <MESSAGE value="L - classes abstratas" />
+    <option name="LAST_COMMIT_MESSAGE" value="L - classes abstratas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
