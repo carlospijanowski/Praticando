@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="teste com ENUM - AULA 80">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aula com ENUMs - AULA 83">
+      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Model/PessoaBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testes/Builder/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/TipoDePessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/Cast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,6 +45,13 @@
       </RepoCoordinatesHolder>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,9 +63,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RecentsManager">
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="testes.Builder.Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Optional">
     <configuration name="ExemplosComMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReference" />
       <module name="Praticando" />
@@ -95,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrincipalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste.PrincipalTest" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0009_Enum.Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula0003_streams.Reduce" />
       <module name="Praticando" />
@@ -108,24 +137,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste.Teste" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0009_Enum.Teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.Optional" />
+        <item itemvalue="Application.PrincipalTest" />
+        <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.ExemplosComMethodReference" />
         <item itemvalue="Application.Interfaces_default_implementacoesLivres" />
       </list>
@@ -203,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636327833912</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="aula com ENUMs - AULA 83">
+      <created>1636367168680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636367168680</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +250,8 @@
     <MESSAGE value="mudancas no pom.xml" />
     <MESSAGE value="nova branch" />
     <MESSAGE value="teste com ENUM - AULA 80" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste com ENUM - AULA 80" />
+    <MESSAGE value="aula com ENUMs - AULA 83" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula com ENUMs - AULA 83" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
