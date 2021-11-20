@@ -83,6 +83,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/model/Humano.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hexagonal_architecture_java/src/main/java/com/rdr/blog/hexagonal_architecture_java/service/EmployeeService.java">
           <value>
             <set />
