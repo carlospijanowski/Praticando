@@ -24,7 +24,7 @@ public class Reduce {
         Optional<Integer> acumuladorDeResultado = lista.stream()
                 .reduce((n1, n2) -> n1 + n2);
 
-        System.out.println(acumuladorDeResultado.get());
+        System.out.println("reduceSoma -> "+ acumuladorDeResultado.get());
     }
 
     public static void reduceSubtracao(List<Integer> lista){
@@ -37,7 +37,7 @@ public class Reduce {
         Optional<Integer> acumuladorDeResultado = lista.stream()
                 .reduce((n1, n2) -> n1 * n2);
 
-        System.out.println(acumuladorDeResultado.get());
+        System.out.println("reduceMultiplicacao -> "+acumuladorDeResultado.get());
     }
 
     public static void reduceComStrings(){
