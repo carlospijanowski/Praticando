@@ -13,12 +13,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.idea/workspace.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReferenceTest.java">
           <value>
             <set />
           </value>
@@ -79,6 +94,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0008_cast/model/cONTA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/CancelledEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/Principal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situação-lojasRenner/CANCELLEDENUM.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/testesAvulsos/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/testesAvulsos/PessoaTeste.java">
           <value>
             <set />
           </value>

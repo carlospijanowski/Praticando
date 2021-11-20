@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="L - classes abstratas">
-      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/CancelledEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 &amp; Mockito" />
         <option value="Enum" />
         <option value="Class" />
       </list>
@@ -39,11 +43,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0011_Exceptions/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
@@ -55,7 +69,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -65,7 +86,7 @@
       <recent name="testes.Builder.Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
+  <component name="RunManager" selected="Application.Principal (2)">
     <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L_classesAbstratas.test.FuncionarioTest01" />
       <module name="Praticando" />
@@ -79,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0005_optional.Optional" />
+    <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testesAvulsos.PessoaTeste" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0005_optional.*" />
+          <option name="PATTERN" value="testesAvulsos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0011_Exceptions.Principal" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0010_Builder.Test.*" />
+          <option name="PATTERN" value="aula0011_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrincipalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste.PrincipalTest" />
+    <configuration name="Principal (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.situacaoRenner.Principal" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0009_Enum.Teste.*" />
+          <option name="PATTERN" value="aula_0009_Enum.situacaoRenner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +139,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0003_streams.Reduce" />
+    <configuration name="ExemplosComMethodReferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0003_streams.*" />
+          <option name="PATTERN" value="aula0001_methodReference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="aula0001_methodReference" />
+      <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReferenceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal (2)" />
+        <item itemvalue="Application.PessoaTeste" />
+        <item itemvalue="JUnit.ExemplosComMethodReferenceTest" />
+        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Optional" />
-        <item itemvalue="Application.PrincipalTest" />
-        <item itemvalue="Application.Reduce" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +172,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634063734039</updated>
+      <workItem from="1636975943440" duration="160000" />
+      <workItem from="1636976129441" duration="481000" />
+      <workItem from="1636976633420" duration="65000" />
+      <workItem from="1637411260551" duration="5508000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -241,8 +268,32 @@
       <option name="project" value="LOCAL" />
       <updated>1636496902107</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="L - classes abstratas">
+      <created>1636497826580</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1636497826580</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ajustes de importacao de dependencias de teste">
+      <created>1637411583953</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637411583953</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ajustes e outras classes">
+      <created>1637416715326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637416715326</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -269,7 +320,9 @@
     <MESSAGE value="ajustes nos pacotes" />
     <MESSAGE value="aula010_Buider" />
     <MESSAGE value="L - classes abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="L - classes abstratas" />
+    <MESSAGE value="ajustes de importacao de dependencias de teste" />
+    <MESSAGE value="ajustes e outras classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes e outras classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
