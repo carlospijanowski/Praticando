@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="L - classes abstratas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/CancelledEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Carlos &lt;carlospc1978@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -68,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -175,7 +177,8 @@
       <workItem from="1636975943440" duration="160000" />
       <workItem from="1636976129441" duration="481000" />
       <workItem from="1636976633420" duration="65000" />
-      <workItem from="1637411260551" duration="5508000" />
+      <workItem from="1637411260551" duration="5685000" />
+      <workItem from="1637423959018" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -289,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637416715326</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="atualizacoes">
+      <created>1637423860921</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637423860921</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +318,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="nova branch feat/fca" />
     <MESSAGE value="atualizacaoes" />
     <MESSAGE value="atualizacaoes Optional" />
@@ -322,7 +334,8 @@
     <MESSAGE value="L - classes abstratas" />
     <MESSAGE value="ajustes de importacao de dependencias de teste" />
     <MESSAGE value="ajustes e outras classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes e outras classes" />
+    <MESSAGE value="atualizacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacoes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
