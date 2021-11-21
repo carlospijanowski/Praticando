@@ -38,6 +38,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/TryWithResourcesTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest.java">
           <value>
             <set />
@@ -49,6 +54,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest03.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest04.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest05.java">
           <value>
             <set />
           </value>

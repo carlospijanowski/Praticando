@@ -1,11 +1,19 @@
 package O_exeption.runtime.test;
 
+/***
+ * nada de essencialmente novo por aqui
+ * veja o codigo com try sem catch e com finally
+ */
+
+
 public class RuntimeExceptionTest03 {
 
     public static void main(String[] args) {
 
         String s = abreConexao();
         System.out.println(s);
+
+        abreConexao2();
 
     }
 
