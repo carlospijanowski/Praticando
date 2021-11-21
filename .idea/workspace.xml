@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/LoginInvalidoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/LoginExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/dominio/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/test/SobreEscritaComExceptionTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/P_wrappers/WrapperTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/ExceptionTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/TryWithResourcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/TryWithResourcesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/dominio/Leitor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/dominio/Leitor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/LoginInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/dominio/LoginInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/ExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/test/ExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/LoginExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/test/LoginExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/TryWithResourcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/exception/test/TryWithResourcesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/runtime/test/RuntimeExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/runtime/test/RuntimeExceptionTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/runtime/test/RuntimeExceptionTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/runtime/test/RuntimeExceptionTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exception/runtime/test/RuntimeExceptionTest05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +46,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feat/qin" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,11 +111,11 @@
   </component>
   <component name="RunManager" selected="Application.LoginExceptionTest01">
     <configuration name="LoginExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exeption.exception.test.LoginExceptionTest01" />
+      <option name="MAIN_CLASS_NAME" value="O_exception.exception.test.LoginExceptionTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exeption.exception.test.*" />
+          <option name="PATTERN" value="O_exception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="RuntimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest02" />
+      <option name="MAIN_CLASS_NAME" value="O_exception.runtime.test.RuntimeExceptionTest02" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exeption.runtime.test.*" />
+          <option name="PATTERN" value="O_exception.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="RuntimeExceptionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest03" />
+      <option name="MAIN_CLASS_NAME" value="O_exception.runtime.test.RuntimeExceptionTest03" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exeption.runtime.test.*" />
+          <option name="PATTERN" value="O_exception.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="RuntimeExceptionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest04" />
+      <option name="MAIN_CLASS_NAME" value="O_exception.runtime.test.RuntimeExceptionTest04" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exeption.runtime.test.*" />
+          <option name="PATTERN" value="O_exception.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +163,11 @@
       </method>
     </configuration>
     <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exeption.exception.test.TryWithResourcesTest01" />
+      <option name="MAIN_CLASS_NAME" value="O_exception.exception.test.TryWithResourcesTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exeption.exception.test.*" />
+          <option name="PATTERN" value="O_exception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,6 +200,7 @@
       <workItem from="1637423959018" duration="850000" />
       <workItem from="1637425791560" duration="1509000" />
       <workItem from="1637500992989" duration="7241000" />
+      <workItem from="1637531486846" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>

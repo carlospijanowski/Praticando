@@ -1,4 +1,4 @@
-package O_exeption.runtime.test;
+package O_exception.runtime.test;
 
 public class RuntimeExceptionTest01 {
 

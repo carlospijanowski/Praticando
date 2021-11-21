@@ -1,7 +1,7 @@
-package O_exeption.exception.test;
+package O_exception.exception.test;
 
-import O_exeption.exception.dominio.Leitor1;
-import O_exeption.exception.dominio.Leitor2;
+import O_exception.exception.dominio.Leitor1;
+import O_exception.exception.dominio.Leitor2;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package O_exeption.runtime.test;
+package O_exception.runtime.test;
 
 /***
  * nada de essencialmente novo por aqui

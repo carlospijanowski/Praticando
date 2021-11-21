@@ -1,11 +1,14 @@
-package O_exeption.runtime.test;
+package O_exception.runtime.test;
 
-import javax.annotation.processing.FilerException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.sql.SQLException;
 
-public class RuntimeExceptionTest04 {
+/**
+ * excecoes em linha
+ */
+
+public class RuntimeExceptionTest05 {
 
     public static void main(String[] args) {
 

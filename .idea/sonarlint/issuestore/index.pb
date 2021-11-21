@@ -24,3 +24,7 @@ Fsrc/main/java/aula0001_methodReference/ExemplosComMethodReference.java,5\4\549
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+[
++src/main/java/aula0003_streams/Collect.java,3\0\301066c098ec811bd538b125b419cbd62373b19b
+Z
+*src/main/java/aula0003_streams/Reduce.java,a\e\aeb0131a88930e59a8fa69141b0b6b4f659c0759

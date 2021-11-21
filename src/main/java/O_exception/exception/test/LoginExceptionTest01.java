@@ -1,6 +1,6 @@
-package O_exeption.exception.test;
+package O_exception.exception.test;
 
-import O_exeption.exception.dominio.LoginInvalidoException;
+import O_exception.exception.dominio.LoginInvalidoException;
 
 import java.util.Scanner;
 

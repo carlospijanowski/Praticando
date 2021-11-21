@@ -1,4 +1,4 @@
-package O_exeption.exception.dominio;
+package O_exception.exception.dominio;
 
 import java.io.Closeable;
 import java.io.IOException;
