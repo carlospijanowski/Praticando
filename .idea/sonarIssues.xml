@@ -33,12 +33,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/LoginInvalidoException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/LoginExceptionTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/TryWithResourcesTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/LoginExceptionTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/TryWithResourcesTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/Leitor1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/Leitor2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/LoginInvalidoException.java">
           <value>
             <set />
           </value>
