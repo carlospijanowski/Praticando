@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0003_streams/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0003_streams/Reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
@@ -88,13 +88,13 @@
       <recent name="testes.Builder.Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reduce">
-    <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testesAvulsos.PessoaTeste" />
+  <component name="RunManager" selected="Application.ExceptionTest01">
+    <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.exeption.test.ExceptionTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesAvulsos.*" />
+          <option name="PATTERN" value="O_exeption.exeption.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0011_Exceptions.Principal" />
+    <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testesAvulsos.PessoaTeste" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0011_Exceptions.*" />
+          <option name="PATTERN" value="testesAvulsos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionTest01" />
         <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.Principal (2)" />
         <item itemvalue="Application.PessoaTeste" />
         <item itemvalue="JUnit.ExemplosComMethodReferenceTest" />
-        <item itemvalue="Application.Principal (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,8 @@
       <workItem from="1636976633420" duration="65000" />
       <workItem from="1637411260551" duration="5685000" />
       <workItem from="1637423959018" duration="850000" />
-      <workItem from="1637425791560" duration="316000" />
+      <workItem from="1637425791560" duration="1509000" />
+      <workItem from="1637500992989" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -307,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637424812950</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="atualizacoes">
+      <created>1637426164865</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637426164865</updated>
+    </task>
+    <task id="LOCAL-00020" summary="atualizacoes">
+      <created>1637501380158</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637501380158</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +359,17 @@
     <MESSAGE value="ajustes e outras classes" />
     <MESSAGE value="atualizacoes" />
     <option name="LAST_COMMIT_MESSAGE" value="atualizacoes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
