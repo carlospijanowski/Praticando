@@ -13,12 +13,117 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.idea/workspace.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/arquivos/teste.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/LoginInvalidoException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/LoginExceptionTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/TryWithResourcesTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/LoginExceptionTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/TryWithResourcesTest01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/Leitor1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/Leitor2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/dominio/LoginInvalidoException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest03.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest04.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest05.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReferenceTest.java">
           <value>
             <set />
           </value>
@@ -83,7 +188,27 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/model/Humano.java">
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/CancelledEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/Principal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situação-lojasRenner/CANCELLEDENUM.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/testesAvulsos/Pessoa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/testesAvulsos/PessoaTeste.java">
           <value>
             <set />
           </value>

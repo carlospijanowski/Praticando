@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="L - classes abstratas">
-      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/dominio/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/LoginExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/ExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/TryWithResourcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exception/test/TryWithResourcesTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,19 +22,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 &amp; Mockito" />
         <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Carlos &lt;carlospc1978@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
@@ -39,11 +50,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0011_Exceptions/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
@@ -54,8 +75,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -64,14 +95,17 @@
       <recent name="aula010_Builder.dominio" />
       <recent name="testes.Builder.Model" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="O_exeption.runtime.test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FuncionarioTest01">
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L_classesAbstratas.test.FuncionarioTest01" />
+  <component name="RunManager" selected="Application.LoginExceptionTest01">
+    <configuration name="LoginExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.exception.test.LoginExceptionTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L_classesAbstratas.test.*" />
+          <option name="PATTERN" value="O_exeption.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Optional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0005_optional.Optional" />
+    <configuration name="RuntimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest02" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0005_optional.*" />
+          <option name="PATTERN" value="O_exeption.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
+    <configuration name="RuntimeExceptionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest03" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0010_Builder.Test.*" />
+          <option name="PATTERN" value="O_exeption.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrincipalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0009_Enum.Teste.PrincipalTest" />
+    <configuration name="RuntimeExceptionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest04" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0009_Enum.Teste.*" />
+          <option name="PATTERN" value="O_exeption.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0003_streams.Reduce" />
+    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.exception.test.TryWithResourcesTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0003_streams.*" />
+          <option name="PATTERN" value="O_exeption.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuncionarioTest01" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Optional" />
-        <item itemvalue="Application.PrincipalTest" />
-        <item itemvalue="Application.Reduce" />
+        <item itemvalue="Application.LoginExceptionTest01" />
+        <item itemvalue="Application.TryWithResourcesTest01" />
+        <item itemvalue="Application.RuntimeExceptionTest04" />
+        <item itemvalue="Application.RuntimeExceptionTest03" />
+        <item itemvalue="Application.RuntimeExceptionTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +183,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634063734039</updated>
+      <workItem from="1636975943440" duration="160000" />
+      <workItem from="1636976129441" duration="481000" />
+      <workItem from="1636976633420" duration="65000" />
+      <workItem from="1637411260551" duration="5685000" />
+      <workItem from="1637423959018" duration="850000" />
+      <workItem from="1637425791560" duration="1509000" />
+      <workItem from="1637500992989" duration="7241000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -241,8 +282,88 @@
       <option name="project" value="LOCAL" />
       <updated>1636496902107</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="L - classes abstratas">
+      <created>1636497826580</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1636497826580</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ajustes de importacao de dependencias de teste">
+      <created>1637411583953</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637411583953</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ajustes e outras classes">
+      <created>1637416715326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637416715326</updated>
+    </task>
+    <task id="LOCAL-00017" summary="atualizacoes">
+      <created>1637423860921</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637423860921</updated>
+    </task>
+    <task id="LOCAL-00018" summary="atualizacoes">
+      <created>1637424812950</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1637424812950</updated>
+    </task>
+    <task id="LOCAL-00019" summary="atualizacoes">
+      <created>1637426164865</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637426164865</updated>
+    </task>
+    <task id="LOCAL-00020" summary="atualizacoes">
+      <created>1637501380158</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637501380158</updated>
+    </task>
+    <task id="LOCAL-00021" summary="estudo de exceções">
+      <created>1637502425259</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637502425259</updated>
+    </task>
+    <task id="LOCAL-00022" summary="estudo de exceções">
+      <created>1637503500541</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1637503500541</updated>
+    </task>
+    <task id="LOCAL-00023" summary="estudo de exceções">
+      <created>1637509332291</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1637509332291</updated>
+    </task>
+    <task id="LOCAL-00024" summary="estudo de exceções">
+      <created>1637513666924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637513666924</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -257,6 +378,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="nova branch feat/fca" />
     <MESSAGE value="atualizacaoes" />
     <MESSAGE value="atualizacaoes Optional" />
@@ -269,7 +392,11 @@
     <MESSAGE value="ajustes nos pacotes" />
     <MESSAGE value="aula010_Buider" />
     <MESSAGE value="L - classes abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="L - classes abstratas" />
+    <MESSAGE value="ajustes de importacao de dependencias de teste" />
+    <MESSAGE value="ajustes e outras classes" />
+    <MESSAGE value="atualizacoes" />
+    <MESSAGE value="estudo de exceções" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudo de exceções" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

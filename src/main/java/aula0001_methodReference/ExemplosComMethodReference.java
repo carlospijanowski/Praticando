@@ -1,17 +1,21 @@
 package aula0001_methodReference;
 
-import lombok.extern.log4j.Log4j2;
-
 import java.util.Arrays;
 import java.util.List;
 
 public class ExemplosComMethodReference {
 
-    // existem alguns tipos de methods reference
-    // ao menos 4 os mais importantes
 
     public static void main(String[] args) {
 
+        aplicacao();
+        teste();
+    }
+
+    public static void aplicacao(){
+
+        // existem alguns tipos de methods reference
+        // ao menos 4 os mais importantes
         List<Integer> lista = Arrays.asList(1,2,3,4,5,6);
 
         //como eu imprimiria usando lambda?
@@ -22,6 +26,11 @@ public class ExemplosComMethodReference {
 
         lista.stream().map((n)-> multipliquePorDois(n)).forEach(System.out::println);
 
+    }
+
+    public static void teste(){
+
+        List<Integer> listinhaDeTeste = Arrays.asList(1,2,3);
 
     }
 

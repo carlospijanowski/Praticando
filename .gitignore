@@ -1,4 +1,4 @@
-/.idea/
 .class
-/target/
+target
 /.sonarlint
+/.idea/
