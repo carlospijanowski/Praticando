@@ -17,7 +17,7 @@ public class ExceptionTest01 {
         File file = new File("arquivos\\teste.txt");
         try {
             boolean isCreated = file.createNewFile();
-            System.out.println("try -> "+isCreated);
+            System.out.println(isCreated ? "criado com sucesso" : "arquivo já existe");
         } catch (IOException e) {
             e.getMessage();
             System.out.println("mensagem do erro -> "+e);

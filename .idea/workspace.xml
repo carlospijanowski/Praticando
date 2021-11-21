@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/O_exeption/runtime/test/RuntimeExceptionTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <recent name="testes.Builder.Model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest01">
+  <component name="RunManager" selected="Application.RuntimeExceptionTest02">
     <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="O_exeption.exeption.test.ExceptionTest01" />
       <module name="Praticando" />
@@ -141,28 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemplosComMethodReferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RuntimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_exeption.runtime.test.RuntimeExceptionTest02" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0001_methodReference.*" />
+          <option name="PATTERN" value="O_exeption.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="aula0001_methodReference" />
-      <option name="MAIN_CLASS_NAME" value="aula0001_methodReference.ExemplosComMethodReferenceTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeExceptionTest02" />
         <item itemvalue="Application.ExceptionTest01" />
         <item itemvalue="Application.Reduce" />
         <item itemvalue="Application.Principal (2)" />
         <item itemvalue="Application.PessoaTeste" />
-        <item itemvalue="JUnit.ExemplosComMethodReferenceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +179,7 @@
       <workItem from="1637411260551" duration="5685000" />
       <workItem from="1637423959018" duration="850000" />
       <workItem from="1637425791560" duration="1509000" />
-      <workItem from="1637500992989" duration="1289000" />
+      <workItem from="1637500992989" duration="2478000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -322,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637501380158</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="estudo de exceções">
+      <created>1637502425259</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637502425259</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,14 +364,15 @@
     <MESSAGE value="ajustes de importacao de dependencias de teste" />
     <MESSAGE value="ajustes e outras classes" />
     <MESSAGE value="atualizacoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizacoes" />
+    <MESSAGE value="estudo de exceções" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudo de exceções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/O_exeption/exeption/test/ExceptionTest01.java</url>
-          <line>25</line>
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
