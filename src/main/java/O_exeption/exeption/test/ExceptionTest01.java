@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class ExceptionTest01 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         System.out.println("caracter de scape \\ por isso imprime apenas uma ");
 
@@ -13,7 +13,7 @@ public class ExceptionTest01 {
 
     }
 
-    private static void criarArquivo(){
+    private static void criarArquivo() throws IOException, RuntimeException {
         File file = new File("arquivos\\teste.txt");
         try {
             boolean isCreated = file.createNewFile();
@@ -22,6 +22,7 @@ public class ExceptionTest01 {
             e.getMessage();
             System.out.println("mensagem do erro -> "+e);
             e.printStackTrace();
+            throw e;
         }
     }
 
