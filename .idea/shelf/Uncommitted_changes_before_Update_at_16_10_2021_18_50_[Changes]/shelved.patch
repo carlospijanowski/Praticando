@@ -1,0 +1,16 @@
+Index: src/main/java/aula0008_cast/model/Conta.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package aula0008_cast.model;\r\n\r\nimport lombok.Data;\r\n\r\n@Data\r\npublic class Conta {\r\n\r\n    int agencia;\r\n    String conta;\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/aula0008_cast/model/Conta.java b/src/main/java/aula0008_cast/model/Conta.java
+--- a/src/main/java/aula0008_cast/model/Conta.java	(revision 05585165b3d4d9f3b8957124638c3bd5a9cc5690)
++++ b/src/main/java/aula0008_cast/model/Conta.java	(date 1634421036931)
+@@ -7,4 +7,5 @@
+ 
+     int agencia;
+     String conta;
++    int a;
+ }
