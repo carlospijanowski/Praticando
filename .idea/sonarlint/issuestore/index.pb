@@ -13,8 +13,6 @@ Q
 -src/main/java/aula0005_optional/Optional.java,3\8\38ba3be0123054fb2ea75a73bc4a66a0fa5a5cda
 `
 0src/main/java/aula0011_Exceptions/Principal.java,3\f\3ff269289f0404aac0ba6fd21d452ba204494984
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 z
 Jsrc/main/java/aula0001_methodReference/ExemplosComMethodReferenceTest.java,2\7\2720f2f4bd81a09b366e2cc65557edc1d01969e5
 l
@@ -28,3 +26,9 @@ Fsrc/main/java/aula0001_methodReference/ExemplosComMethodReference.java,5\4\549
 +src/main/java/aula0003_streams/Collect.java,3\0\301066c098ec811bd538b125b419cbd62373b19b
 Z
 *src/main/java/aula0003_streams/Reduce.java,a\e\aeb0131a88930e59a8fa69141b0b6b4f659c0759
+l
+<src/main/java/O_exception/exception/dominio/Funcionario.java,c\1\c1276dc965a8df3d8863b01d1323bffb2053a6cd
+g
+7src/main/java/O_exception/exception/dominio/Pessoa.java,8\f\8fb23e0cd5faba2d3f794e15ddcffccca46f9faf
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

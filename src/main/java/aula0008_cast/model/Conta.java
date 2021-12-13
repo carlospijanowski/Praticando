@@ -1,6 +1,6 @@
 package aula0008_cast.model;
 
-import lombok.Getter;
+import lombok.Data;
 
 
 @Data
