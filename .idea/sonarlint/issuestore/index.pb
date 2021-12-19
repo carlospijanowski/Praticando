@@ -32,3 +32,5 @@ g
 7src/main/java/O_exception/exception/dominio/Pessoa.java,8\f\8fb23e0cd5faba2d3f794e15ddcffccca46f9faf
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/main/java/AAA_lacosDeRepeticao.java,3\e\3e76b3293c8a9d39396445284fbd0c815b380638

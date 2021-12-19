@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="estudo de exceções">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AAA_lacosDeRepeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testesAvulsos/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_10_2021_18_50__Changes_.xml" beforeDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0008_cast/model/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testesAvulsos/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesAvulsos/Teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +104,7 @@
       <recent name="O_exeption.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AAA_lacosDeRepeticao">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="AAA_lacosDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AAA_lacosDeRepeticao" />
       <module name="Praticando" />
@@ -169,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AAA_lacosDeRepeticao" />
         <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.AAA_lacosDeRepeticao" />
         <item itemvalue="Application.LoginExceptionTest01" />
         <item itemvalue="Application.TryWithResourcesTest01" />
         <item itemvalue="Application.RuntimeExceptionTest04" />
@@ -195,7 +192,8 @@
       <workItem from="1637531486846" duration="1738000" />
       <workItem from="1637585240126" duration="5000" />
       <workItem from="1638717770324" duration="894000" />
-      <workItem from="1639427170050" duration="457000" />
+      <workItem from="1639427170050" duration="1173000" />
+      <workItem from="1639680386486" duration="4262000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -372,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637532880541</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="novos exemplos de estudo">
+      <created>1639427704980</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1639427704980</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +414,8 @@
     <MESSAGE value="ajustes e outras classes" />
     <MESSAGE value="atualizacoes" />
     <MESSAGE value="estudo de exceções" />
-    <option name="LAST_COMMIT_MESSAGE" value="estudo de exceções" />
+    <MESSAGE value="novos exemplos de estudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="novos exemplos de estudo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
