@@ -9,8 +9,6 @@ Q
 !src/main/java/model/Clientes.java,d\d\dd65bdb725c6704beb15461255b66223e93df4b0
 [
 +src/main/java/aula0003_streams/Streams.java,0\1\012ad0e4101a18c83b0ede066a058b25f4d1896e
-]
--src/main/java/aula0005_optional/Optional.java,3\8\38ba3be0123054fb2ea75a73bc4a66a0fa5a5cda
 `
 0src/main/java/aula0011_Exceptions/Principal.java,3\f\3ff269289f0404aac0ba6fd21d452ba204494984
 z
@@ -32,5 +30,3 @@ g
 7src/main/java/O_exception/exception/dominio/Pessoa.java,8\f\8fb23e0cd5faba2d3f794e15ddcffccca46f9faf
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-W
-'src/main/java/AAA_lacosDeRepeticao.java,3\e\3e76b3293c8a9d39396445284fbd0c815b380638

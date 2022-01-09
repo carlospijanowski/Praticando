@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="novos exemplos de estudo">
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/EstudandoHashes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/EstudandoHashes.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/dto/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +103,7 @@
       <recent name="O_exeption.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EstudandoHashes">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="AAA_lacosDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AAA_lacosDeRepeticao" />
       <module name="Praticando" />
@@ -134,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula0010_Builder.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="testesAvulsos.Teste" />
       <module name="Praticando" />
@@ -147,26 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exception.exception.test.TryWithResourcesTest01" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="O_exception.exception.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.EstudandoHashes" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.AAA_lacosDeRepeticao" />
         <item itemvalue="Application.LoginExceptionTest01" />
-        <item itemvalue="Application.TryWithResourcesTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +193,8 @@
       <workItem from="1638717770324" duration="894000" />
       <workItem from="1639427170050" duration="1173000" />
       <workItem from="1639680386486" duration="4262000" />
-      <workItem from="1641691680860" duration="718000" />
+      <workItem from="1641691680860" duration="947000" />
+      <workItem from="1641730679521" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -388,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641692228665</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="novos exemplos de estudo">
+      <created>1641692561182</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1641692561182</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java">
+      <created>1641692615693</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1641692615693</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,19 +443,9 @@
     <MESSAGE value="atualizacoes" />
     <MESSAGE value="estudo de exceções" />
     <MESSAGE value="novos exemplos de estudo" />
-    <option name="LAST_COMMIT_MESSAGE" value="novos exemplos de estudo" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/aula_0010_Maps/EstudandoHashes.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
