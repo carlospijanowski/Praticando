@@ -16,7 +16,6 @@ public class EstudandoHashes {
         Object resultado = stringObjectHashMap.get(1);
         System.out.printf(resultado.toString());
 
-
     }
 
 }
