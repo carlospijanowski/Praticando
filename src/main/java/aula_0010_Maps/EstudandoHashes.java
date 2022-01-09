@@ -2,6 +2,7 @@ package aula_0010_Maps;
 
 import model.Clientes;
 
+import javax.swing.*;
 import java.util.HashMap;
 
 public class EstudandoHashes {
@@ -10,12 +11,14 @@ public class EstudandoHashes {
 
         Clientes clientes = new Clientes("Carlos",true);
 
-        HashMap<Integer, Object> stringObjectHashMap = new HashMap<>();
-        stringObjectHashMap.put(1,clientes.getNomeDoCliente());
-        stringObjectHashMap.put(2,"Tatiana");
+        HashMap<Integer, Clientes> stringObjectHashMap = new HashMap<>();
+        stringObjectHashMap.put(1,clientes);
+//        stringObjectHashMap.put(2,"Tatiana");
         Object resultado = stringObjectHashMap.get(1);
-        System.out.printf(resultado.toString());
 
+        JOptionPane.showMessageDialog(null,resultado.toString());
+
+        System.out.printf(resultado.toString());
 
     }
 
