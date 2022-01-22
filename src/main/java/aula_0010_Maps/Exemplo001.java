@@ -17,10 +17,7 @@ public class Exemplo001 {
 
         for (String siglaDoEstado: mapaEstados.values()) {
             System.out.println(siglaDoEstado);
-
         }
-
-
 
     }
 

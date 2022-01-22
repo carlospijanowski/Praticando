@@ -1,8 +1,8 @@
-package aula_0009_Enum.Teste;
+package aula_0011_Enum.Teste;
 
-import aula_0009_Enum.Dominio.Cliente;
-import aula_0009_Enum.Dominio.TipoDePagamento;
-import aula_0009_Enum.Dominio.TipoDePessoa;
+import aula_0011_Enum.Dominio.Cliente;
+import aula_0011_Enum.Dominio.TipoDePagamento;
+import aula_0011_Enum.Dominio.TipoDePessoa;
 
 public class PrincipalTest {
 

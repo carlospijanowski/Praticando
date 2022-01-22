@@ -1,6 +1,5 @@
-package aula_0009_Enum.situacaoRenner;
+package aula_0011_Enum.situacaoRenner;
 
-import lombok.Data;
 import lombok.Getter;
 
 @Getter

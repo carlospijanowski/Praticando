@@ -5,10 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/dto/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0004_interfaces2/ClienteDoBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0004_interfaces2/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula0004_interfaces2/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0012_Listas/Listas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0012_Listas/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/Teste/PrincipalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/CancelledEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/situacaoRenner/CancelledEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0009_Enum/situacaoRenner/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0011_Enum/situacaoRenner/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Clientes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Clientes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Pessoas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Pessoas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +73,24 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0009_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula0011_Exceptions/Principal.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
@@ -88,10 +110,11 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -100,17 +123,11 @@
       <recent name="testes.Builder.Model" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula_0012_Listas" />
       <recent name="O_exeption.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="AAA_lacosDeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AAA_lacosDeRepeticao" />
-      <module name="Praticando" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Set">
     <configuration name="EstudandoHashes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.EstudandoHashes" />
       <module name="Praticando" />
@@ -124,12 +141,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_exception.exception.test.LoginExceptionTest01" />
+    <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="O_exception.exception.test.*" />
+          <option name="PATTERN" value="aula_0010_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Listas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0012_Listas.Listas" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0012_Listas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testesAvulsos.Teste" />
+    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0012_Listas.Set" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesAvulsos.*" />
+          <option name="PATTERN" value="aula_0012_Listas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,13 +193,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Set" />
+        <item itemvalue="Application.Listas" />
+        <item itemvalue="Application.Exemplo001" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.EstudandoHashes" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.AAA_lacosDeRepeticao" />
-        <item itemvalue="Application.LoginExceptionTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +236,8 @@
       <workItem from="1639680386486" duration="4262000" />
       <workItem from="1641691680860" duration="947000" />
       <workItem from="1641730679521" duration="328000" />
+      <workItem from="1645288017582" duration="432000" />
+      <workItem from="1645288498755" duration="5233000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -422,7 +465,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -446,6 +488,17 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
