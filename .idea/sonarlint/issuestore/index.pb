@@ -17,9 +17,6 @@ l
 <src/main/java/L_classesAbstratas/test/FuncionarioTest01.java,7\d\7d39edac313519b09fb08834d3c4f98621672924
 v
 Fsrc/main/java/aula0001_methodReference/ExemplosComMethodReference.java,5\4\54956d457c4621bdd3c9775deb24d7032142f6ca
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 [
 +src/main/java/aula0003_streams/Collect.java,3\0\301066c098ec811bd538b125b419cbd62373b19b
 Z
