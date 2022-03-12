@@ -19,5 +19,10 @@ l
 <src/main/java/O_exception/exception/dominio/Funcionario.java,c\1\c1276dc965a8df3d8863b01d1323bffb2053a6cd
 g
 7src/main/java/O_exception/exception/dominio/Pessoa.java,8\f\8fb23e0cd5faba2d3f794e15ddcffccca46f9faf
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+X
+(src/main/java/aula_0012_Listas/README.md,1\4\14a2b002a590e72b766820eec4cffdc10cb130b0
+W
+'src/main/java/aula_0012_Listas/Set.java,2\d\2d755346cf0de6424c61fdba504f3b27dbeb6b05
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

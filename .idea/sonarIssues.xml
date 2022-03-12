@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Entrev/arquitetura.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -193,6 +198,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0004_interfaces/20220201/CodigosBarras.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0004_interfaces/20220201/DadosLinhaDigitavel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/aula0004_interfaces/20220201/DadosLinhaDigitavel/java.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces.java">
           <value>
             <set />
@@ -289,6 +309,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../hexagonal_architecture_java/src/main/java/com/rdr/blog/hexagonal_architecture_java/service/EmployeeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../microservico-estoquepreco-rabbitmq-master/librabbitmq/src/main/java/constantes/RabbitmqConstantes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../microservico-estoquepreco-rabbitmq-master/readme.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/java/br/com/lojasrenner/rlog/order/tracking/sender/entity/NotifiedDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/java/br/com/lojasrenner/rlog/order/tracking/sender/service/OrderTrackingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/test/java/br/com/lojasrenner/rlog/order/tracking/sender/configuration/IntelipostConfigTest.java">
           <value>
             <set />
           </value>
