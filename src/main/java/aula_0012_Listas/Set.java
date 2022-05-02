@@ -22,7 +22,6 @@ public class Set {
             setDeNumeros.add(a);
         }
 
-
         print(setDeNumeros);
 
     }
