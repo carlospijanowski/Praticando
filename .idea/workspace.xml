@@ -185,13 +185,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="XClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="x-Client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.seteideias.xclient.XClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
+    <configuration name="XServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="x-Server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.seteideias.xserver.XServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
