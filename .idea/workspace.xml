@@ -4,19 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="utilitarios">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0102_BeanValidation/ClasseMainDeTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0102_BeanValidation/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Pessoas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Pessoas.class" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="adicao de client and server">
+      <change afterPath="$PROJECT_DIR$/x-Client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/XClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/src/test/java/br/com/seteideias/xclient/XClientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/src/main/java/br/com/seteideias/xserver/XServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Server/src/test/java/br/com/seteideias/xserver/XServerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +71,21 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/aula0011_Exceptions/Principal.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Desenvolvedor.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Funcionario.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/dominio/Gerente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/L_classesAbstratas/test/FuncionarioTest01.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/aula0001_methodReference/ExemplosComMethodReference.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0002_designPatterns/Strategy.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0004_interfaces/Interfaces_default_implementacoesLivres.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0005_optional/Optional.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/Test/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0010_Builder/dominio/Person.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula0011_Exceptions/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/Cliente.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePagamento.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Dominio/TipoDePessoa.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/aula_0011_Enum/Teste/PrincipalTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,26 +95,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateBuilderDialog.RecentsKey">
       <recent name="aula010_Builder.dominio" />
@@ -236,6 +231,7 @@
       <workItem from="1646306346099" duration="3832000" />
       <workItem from="1646506285771" duration="776000" />
       <workItem from="1647113585872" duration="1407000" />
+      <workItem from="1652143021837" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -461,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646344660484</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="adicao de client and server">
+      <created>1652143284354</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652143284354</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +503,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/aula_0010_Maps/EstudandoHashes.java" />
     <MESSAGE value="20220222 atualizacoes" />
     <MESSAGE value="utilitarios" />
-    <option name="LAST_COMMIT_MESSAGE" value="utilitarios" />
+    <MESSAGE value="adicao de client and server" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicao de client and server" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
