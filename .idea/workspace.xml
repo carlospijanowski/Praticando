@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="adicao de client and server">
-      <change afterPath="$PROJECT_DIR$/x-Client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/XClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/src/test/java/br/com/seteideias/xclient/XClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/src/main/java/br/com/seteideias/xserver/XServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Server/src/test/java/br/com/seteideias/xserver/XServerApplicationTests.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="ajustes nas portas dos arquivos yml">
+      <change afterPath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/controller/TesteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +76,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1zPxspYGBrulxD0MIBxBh2Jp08k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -97,14 +90,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/CCRT/Documents/DevProjetos/PraticandoNovo/x-Client/src/main/resources",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CCRT\Documents\DevProjetos\PraticandoNovo\x-Client\src\main\resources" />
+    </key>
     <key name="CreateBuilderDialog.RecentsKey">
       <recent name="aula010_Builder.dominio" />
       <recent name="testes.Builder.Model" />
@@ -141,46 +142,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0010_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
     </configuration>
-    <configuration name="Listas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0012_Listas.Listas" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0012_Listas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="generated-requests | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" requestIdentifier="#5" runType="Run single request">
+      <method v="2" />
     </configuration>
-    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0012_Listas.Set" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0012_Listas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="generated-requests | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" requestIdentifier="#6" runType="Run single request">
+      <method v="2" />
     </configuration>
     <configuration name="XClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" value="spring.profiles.active=dev" />
       <module name="x-Client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.seteideias.xclient.XClientApplication" />
       <method v="2">
@@ -194,13 +166,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ClasseMainDeTeste" />
+      <item itemvalue="Application.CriarUtilizar" />
+      <item itemvalue="HTTP Request.generated-requests | #6" />
+      <item itemvalue="HTTP Request.generated-requests | #4" />
+      <item itemvalue="HTTP Request.generated-requests | #5" />
+      <item itemvalue="Spring Boot.XClientApplication" />
+      <item itemvalue="Spring Boot.XServerApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.generated-requests | #6" />
+        <item itemvalue="HTTP Request.generated-requests | #5" />
+        <item itemvalue="HTTP Request.generated-requests | #4" />
         <item itemvalue="Application.ClasseMainDeTeste" />
         <item itemvalue="Application.CriarUtilizar" />
-        <item itemvalue="Application.Set" />
-        <item itemvalue="Application.Listas" />
-        <item itemvalue="Application.Exemplo001" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +212,7 @@
       <workItem from="1646306346099" duration="3832000" />
       <workItem from="1646506285771" duration="776000" />
       <workItem from="1647113585872" duration="1407000" />
-      <workItem from="1652143021837" duration="310000" />
+      <workItem from="1652143021837" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -464,7 +445,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652143284354</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="adicao de client and server">
+      <created>1652143345585</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652143345585</updated>
+    </task>
+    <task id="LOCAL-00035" summary="ajustes nas portas dos arquivos yml">
+      <created>1652143503159</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652143503159</updated>
+    </task>
+    <task id="LOCAL-00036" summary="ajustes nas portas dos arquivos yml">
+      <created>1652143612245</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1652143612245</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +506,8 @@
     <MESSAGE value="20220222 atualizacoes" />
     <MESSAGE value="utilitarios" />
     <MESSAGE value="adicao de client and server" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicao de client and server" />
+    <MESSAGE value="ajustes nas portas dos arquivos yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustes nas portas dos arquivos yml" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
