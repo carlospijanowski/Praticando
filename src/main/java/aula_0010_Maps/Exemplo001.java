@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class Exemplo001 {
 
-    public static HashMap<String,String> mapaEstados() {
+    public HashMap<String,String> mapaEstados() {
         HashMap<String, String> estados = new HashMap<>();
         estados.put("SP", "São Paulo");
         estados.put("RJ", "Rio de Janeiro");
@@ -13,7 +13,7 @@ public class Exemplo001 {
 
 
     public static void main(String[] args) {
-        HashMap<String, String> mapaEstados = mapaEstados();
+        HashMap<String, String> mapaEstados = new Exemplo001().mapaEstados();
 
         for (String siglaDoEstado: mapaEstados.values()) {
             System.out.println(siglaDoEstado);

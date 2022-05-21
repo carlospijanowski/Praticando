@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="ajustes nas portas dos arquivos yml">
-      <change afterPath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/controller/TesteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application-dev.yml" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="add a docker-compose.yaml">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/REAME.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Clientes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Pessoas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/XClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/controller/TesteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Client/src/test/java/br/com/seteideias/xclient/XClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/src/main/java/br/com/seteideias/xserver/XServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-Server/src/test/java/br/com/seteideias/xserver/XServerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +72,7 @@
     </file-type-list>
   </component>
   <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="4" />
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
@@ -79,7 +105,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\CCRT\.m2\repositorio-naoEhbradesco" />
         <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Users\CCRT\.m2\settings-naoEhBradesco.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -99,7 +127,12 @@
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "C:/Users/CCRT/Documents/DevProjetos/PraticandoNovo/x-Client/src/main/resources",
-    "show.migrate.to.gradle.popup": "false"
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "profiler.jvm",
+    "show.migrate.to.gradle.popup": "false",
+    "spring.configuration.checksum": "f65a59c0b70b156b5b2c13077910aee9"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,13 +148,20 @@
       <recent name="O_exeption.runtime.test" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.XClientApplication">
-    <configuration name="ClasseMainDeTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0102_BeanValidation.ClasseMainDeTeste" />
+    <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0102_BeanValidation.*" />
+          <option name="PATTERN" value="aula_0010_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CriarUtilizar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0013_files.CriarUtilizar" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0013_files.*" />
+          <option name="PATTERN" value="aula0010_Builder.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,14 +182,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="4" requestIdentifier="#4" runType="Run single request">
-      <method v="2" />
+    <configuration name="TesteService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0003_streams.testeParaAplicarNaOrange.service.TesteService" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula0003_streams.testeParaAplicarNaOrange.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="generated-requests | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" requestIdentifier="#5" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="generated-requests | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" requestIdentifier="#6" runType="Run single request">
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="XClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" value="spring.profiles.active=dev" />
@@ -167,21 +228,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ClasseMainDeTeste" />
-      <item itemvalue="Application.CriarUtilizar" />
+      <item itemvalue="Application.Exemplo001" />
+      <item itemvalue="Application.Principal" />
+      <item itemvalue="Application.TesteService" />
       <item itemvalue="HTTP Request.generated-requests | #6" />
-      <item itemvalue="HTTP Request.generated-requests | #4" />
       <item itemvalue="HTTP Request.generated-requests | #5" />
       <item itemvalue="Spring Boot.XClientApplication" />
       <item itemvalue="Spring Boot.XServerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemplo001" />
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.TesteService" />
         <item itemvalue="HTTP Request.generated-requests | #6" />
         <item itemvalue="HTTP Request.generated-requests | #5" />
-        <item itemvalue="HTTP Request.generated-requests | #4" />
-        <item itemvalue="Application.ClasseMainDeTeste" />
-        <item itemvalue="Application.CriarUtilizar" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +274,13 @@
       <workItem from="1646506285771" duration="776000" />
       <workItem from="1647113585872" duration="1407000" />
       <workItem from="1652143021837" duration="1865000" />
+      <workItem from="1652280121965" duration="6828000" />
+      <workItem from="1652381642052" duration="935000" />
+      <workItem from="1652552487141" duration="795000" />
+      <workItem from="1652719139615" duration="854000" />
+      <workItem from="1653049661902" duration="3474000" />
+      <workItem from="1653140616409" duration="1447000" />
+      <workItem from="1653142108480" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -466,7 +534,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652143612245</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="adicionando exemplo de streams">
+      <created>1652393592998</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1652393592998</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add a docker-compose.yaml">
+      <created>1653141043349</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1653141043349</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +589,9 @@
     <MESSAGE value="utilitarios" />
     <MESSAGE value="adicao de client and server" />
     <MESSAGE value="ajustes nas portas dos arquivos yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustes nas portas dos arquivos yml" />
+    <MESSAGE value="adicionando exemplo de streams" />
+    <MESSAGE value="add a docker-compose.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a docker-compose.yaml" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -515,8 +599,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

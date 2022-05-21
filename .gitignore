@@ -1,5 +1,5 @@
 .class
 target
 /.sonarlint
-/.idea/
 /target/
+/.idea/
