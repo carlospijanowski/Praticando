@@ -5,36 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="add a docker-compose.yaml">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/equals/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/equals/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/equals/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/hashcode/HELP.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/REAME.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/docker-compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0010_Maps/Exemplo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0001_methodReference/ExemplosComMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0002_designPatterns/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aula0003_streams/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Clientes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Pessoas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/XClientApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/main/java/br/com/seteideias/xclient/controller/TesteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Client/src/test/java/br/com/seteideias/xclient/XClientApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/src/main/java/br/com/seteideias/xserver/XServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x-Server/src/test/java/br/com/seteideias/xserver/XServerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,11 +97,13 @@
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "C:/Users/CCRT/Documents/DevProjetos/PraticandoNovo/x-Client/src/main/resources",
+    "last_opened_file_path": "C:/Users/CCRT/Documents/DevProjetos/Praticando/src/main/java/aula_0103_Coleções/hashcode",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -137,6 +114,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CCRT\Documents\DevProjetos\Praticando\src\main\java\aula_0103_Coleções\hashcode" />
       <recent name="C:\Users\CCRT\Documents\DevProjetos\PraticandoNovo\x-Client\src\main\resources" />
     </key>
     <key name="CreateBuilderDialog.RecentsKey">
@@ -155,7 +133,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.XClientApplication">
+  <component name="RunManager" selected="Application.EqualsTest">
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.equals.EqualsTest" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0103_Coleções.equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
       <module name="Praticando" />
@@ -195,9 +186,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generated-requests | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="5" requestIdentifier="#5" runType="Run single request">
-      <method v="2" />
-    </configuration>
     <configuration name="generated-requests | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" requestIdentifier="#6" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -228,21 +216,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.EqualsTest" />
       <item itemvalue="Application.Exemplo001" />
       <item itemvalue="Application.Principal" />
       <item itemvalue="Application.TesteService" />
       <item itemvalue="HTTP Request.generated-requests | #6" />
-      <item itemvalue="HTTP Request.generated-requests | #5" />
       <item itemvalue="Spring Boot.XClientApplication" />
       <item itemvalue="Spring Boot.XServerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.Exemplo001" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TesteService" />
         <item itemvalue="HTTP Request.generated-requests | #6" />
-        <item itemvalue="HTTP Request.generated-requests | #5" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +268,8 @@
       <workItem from="1652719139615" duration="854000" />
       <workItem from="1653049661902" duration="3474000" />
       <workItem from="1653140616409" duration="1447000" />
-      <workItem from="1653142108480" duration="639000" />
+      <workItem from="1653142108480" duration="668000" />
+      <workItem from="1653264428477" duration="790000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -548,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653141043349</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add a docker-compose.yaml">
+      <created>1653142765314</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1653142765314</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
