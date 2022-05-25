@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="estudos de equals">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/hashcode/HashcodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/dominio/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/dominio/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/IteratorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/ListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/ListaArrayConversao01_aula173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/MangaSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/MapTest02_aula179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/SetTest01_aula175.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/equals/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/equals/EqualsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +137,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EqualsTest">
+  <component name="RunManager" selected="Application.MapTest02_aula179">
     <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.equals.EqualsTest" />
       <module name="Praticando" />
@@ -145,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0010_Maps.Exemplo001" />
+    <configuration name="IteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.IteratorTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0010_Maps.*" />
+          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0010_Builder.Test.Principal" />
+    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.ListTest01" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0010_Builder.Test.*" />
+          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula0003_streams.testeParaAplicarNaOrange.service.TesteService" />
+    <configuration name="MapTest02_aula179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.MapTest02_aula179" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula0003_streams.testeParaAplicarNaOrange.service.*" />
+          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,8 +190,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generated-requests | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="6" requestIdentifier="#6" runType="Run single request">
-      <method v="2" />
+    <configuration name="aula_0103_Coleções.tests.ListaArrayConversao01_aula173" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.ListaArrayConversao01_aula173" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -214,21 +230,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.IteratorTest01" />
+      <item itemvalue="Application.aula_0103_Coleções.tests.ListTest01" />
+      <item itemvalue="Application.MapTest02_aula179" />
+      <item itemvalue="Application.aula_0103_Coleções.tests.ListaArrayConversao01_aula173" />
       <item itemvalue="Application.EqualsTest" />
-      <item itemvalue="Application.Exemplo001" />
-      <item itemvalue="Application.Principal" />
-      <item itemvalue="Application.TesteService" />
-      <item itemvalue="HTTP Request.generated-requests | #6" />
       <item itemvalue="Spring Boot.XClientApplication" />
       <item itemvalue="Spring Boot.XServerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapTest02_aula179" />
+        <item itemvalue="Application.IteratorTest01" />
+        <item itemvalue="Application.aula_0103_Coleções.tests.ListaArrayConversao01_aula173" />
+        <item itemvalue="Application.aula_0103_Coleções.tests.ListTest01" />
         <item itemvalue="Application.EqualsTest" />
-        <item itemvalue="Application.Exemplo001" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.TesteService" />
-        <item itemvalue="HTTP Request.generated-requests | #6" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +284,8 @@
       <workItem from="1653140616409" duration="1447000" />
       <workItem from="1653142108480" duration="668000" />
       <workItem from="1653264428477" duration="3163000" />
-      <workItem from="1653350546263" duration="1709000" />
+      <workItem from="1653350546263" duration="2704000" />
+      <workItem from="1653440070990" duration="5005000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -550,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653265242412</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="estudos de equals">
+      <created>1653352528032</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1653352528032</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
