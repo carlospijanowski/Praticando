@@ -1,4 +1,4 @@
-package alura.colecoes;
+package aula_0103_Coleções.alura.colecoes;
 
 import java.util.ArrayList;
 import java.util.Collections;

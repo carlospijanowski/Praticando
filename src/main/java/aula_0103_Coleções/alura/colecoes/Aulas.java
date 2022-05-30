@@ -1,4 +1,4 @@
-package alura.colecoes;
+package aula_0103_Coleções.alura.colecoes;
 
 public class Aulas implements Comparable<Aulas>{
 

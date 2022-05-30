@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="adicionado map aula 179">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZZKJunit/dominio/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZZKJunit/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZZKJunit/service/PersonServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/alura/colecoes/ABOUT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/alura/colecoes/Aulas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/alura/colecoes/aula0002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/tests/MapTest03_aula180.java" afterDir="false" />
+    <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aulas de colecoes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0010.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/ABOUT.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/ABOUT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/Aulas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/Aulas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/aula0002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,52 +138,52 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aula0002">
-    <configuration name="IteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.IteratorTest01" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTest02_aula179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.tests.MapTest02_aula179" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aula_0103_Coleções.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZZKJunit.service.PersonService" />
-      <module name="Praticando" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ZZKJunit.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.aula0010">
     <configuration name="aula0002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alura.colecoes.aula0002" />
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.alura.colecoes.aula0002" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="alura.colecoes.*" />
+          <option name="PATTERN" value="aula_0103_Coleções.alura.colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula0004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.alura.colecoes.aula0004" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0103_Coleções.alura.colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula0005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.alura.colecoes.aula0005" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0103_Coleções.alura.colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aula0010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.alura.colecoes.aula0010" />
+      <module name="Praticando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula_0103_Coleções.alura.colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,21 +233,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.aula0002" />
-      <item itemvalue="Application.PersonService" />
-      <item itemvalue="Application.IteratorTest01" />
-      <item itemvalue="Application.MapTest02_aula179" />
+      <item itemvalue="Application.aula_0103_Coleções.colecoes.aula0002" />
+      <item itemvalue="Application.aula0004" />
+      <item itemvalue="Application.aula0005" />
+      <item itemvalue="Application.aula0010" />
       <item itemvalue="JUnit.PersonServiceTest" />
       <item itemvalue="Spring Boot.XClientApplication" />
       <item itemvalue="Spring Boot.XServerApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aula0002" />
+        <item itemvalue="Application.aula0010" />
+        <item itemvalue="Application.aula0004" />
+        <item itemvalue="Application.aula0005" />
+        <item itemvalue="Application.aula_0103_Coleções.colecoes.aula0002" />
         <item itemvalue="JUnit.PersonServiceTest" />
-        <item itemvalue="Application.PersonService" />
-        <item itemvalue="Application.MapTest02_aula179" />
-        <item itemvalue="Application.IteratorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +290,8 @@
       <workItem from="1653350546263" duration="2704000" />
       <workItem from="1653440070990" duration="8135000" />
       <workItem from="1653524882158" duration="3116000" />
-      <workItem from="1653757679326" duration="5608000" />
+      <workItem from="1653757679326" duration="5651000" />
+      <workItem from="1653856264550" duration="3941000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
@@ -586,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653445161928</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="aulas de colecoes">
+      <created>1653784743985</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1653784743985</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +613,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <MESSAGE value="atualizacaoes" />
     <MESSAGE value="atualizacaoes Optional" />
     <MESSAGE value="add polimorfismo" />
     <MESSAGE value="nova aula0008 - cast de objetos" />
@@ -630,7 +637,8 @@
     <MESSAGE value="add a docker-compose.yaml" />
     <MESSAGE value="estudos de equals" />
     <MESSAGE value="adicionado map aula 179" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionado map aula 179" />
+    <MESSAGE value="aulas de colecoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="aulas de colecoes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
