@@ -3,8 +3,6 @@ P
  src/main/java/model/Pessoas.java,e\5\e54760c8597408468f6ba3d2846445a3f63c93fd
 c
 3src/main/java/aula0002_designPatterns/Strategy.java,d\a\daac157f2149272162a614e07fcd5d3d426dec94
-[
-+src/main/java/aula0003_streams/Streams.java,0\1\012ad0e4101a18c83b0ede066a058b25f4d1896e
 `
 0src/main/java/aula0011_Exceptions/Principal.java,3\f\3ff269289f0404aac0ba6fd21d452ba204494984
 z
@@ -26,3 +24,7 @@ W
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+J
+docker/docker-compose.yaml,7\a\7af4da9a4193d42f3d9d71da112b58d728e70329
+[
++src/main/java/aula0003_streams/Streams.java,0\1\012ad0e4101a18c83b0ede066a058b25f4d1896e

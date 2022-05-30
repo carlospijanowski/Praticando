@@ -4,11 +4,19 @@ import model.Clientes;
 
 import java.util.List;
 
-import static java.util.Arrays.*;
+import static java.util.Arrays.asList;
 
 public class Streams {
 
     public static void main(String[] args) {
+
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("ooi");
+            }
+        });
 
         filtrar_SeOClienteNaoForAtivo();
         System.out.println("****************************************************************");

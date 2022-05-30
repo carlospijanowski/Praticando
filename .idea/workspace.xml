@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d34c0e1-4de3-47ac-a328-5a3f6ff57f1f" name="Changes" comment="aulas de colecoes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/N_polimorfismo/dominio/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/N_polimorfismo/dominio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/N_polimorfismo/dominio/TaxaDeImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/N_polimorfismo/dominio/Tomate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/N_polimorfismo/dominio/service/CalculaImpostoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/ABOUT.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/ABOUT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/Aulas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/Aulas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/alura/colecoes/aula0002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula_0103_Coleções/alura/colecoes/aula0002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aula0003_streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aula0003_streams/Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
       <list>
         <option value="Enum" />
         <option value="JUnit5 &amp; Mockito" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -84,9 +84,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\CCRT\.m2\repositorio-naoEhbradesco" />
         <option name="useMavenConfig" value="true" />
-        <option name="userSettingsFile" value="C:\Users\CCRT\.m2\settings-naoEhBradesco.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -108,12 +106,17 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/CCRT/Documents/DevProjetos/Praticando/src/main/java/aula_0103_Coleções/hashcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;profiler.jvm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;f65a59c0b70b156b5b2c13077910aee9&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;f65a59c0b70b156b5b2c13077910aee9&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -138,13 +141,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aula0010">
-    <configuration name="aula0002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_0103_Coleções.alura.colecoes.aula0002" />
+  <component name="RunManager" selected="Application.Streams">
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula0003_streams.Streams" />
       <module name="Praticando" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula_0103_Coleções.alura.colecoes.*" />
+          <option name="PATTERN" value="aula0003_streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,17 +209,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="XClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" value="spring.profiles.active=dev" />
       <module name="x-Client" />
@@ -233,7 +225,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.aula_0103_Coleções.colecoes.aula0002" />
+      <item itemvalue="Application.Streams" />
       <item itemvalue="Application.aula0004" />
       <item itemvalue="Application.aula0005" />
       <item itemvalue="Application.aula0010" />
@@ -243,11 +235,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aula0010" />
-        <item itemvalue="Application.aula0004" />
-        <item itemvalue="Application.aula0005" />
-        <item itemvalue="Application.aula_0103_Coleções.colecoes.aula0002" />
         <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="Application.aula0010" />
+        <item itemvalue="Application.aula0005" />
+        <item itemvalue="Application.aula0004" />
+        <item itemvalue="Application.Streams" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +284,10 @@
       <workItem from="1653524882158" duration="3116000" />
       <workItem from="1653757679326" duration="5651000" />
       <workItem from="1653856264550" duration="3941000" />
+      <workItem from="1660399391131" duration="2830000" />
+      <workItem from="1669684366168" duration="65000" />
+      <workItem from="1669684635922" duration="3789000" />
+      <workItem from="1670458188920" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="nova branch feat/fca">
       <created>1634064401548</created>
